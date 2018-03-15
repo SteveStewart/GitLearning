@@ -9,6 +9,7 @@ using GitLearning.Models;
 namespace GitLearning.Controllers
 {
     //Test master branch change.
+    //Test master branch change with an incoming change.
     public class HomeController : Controller
     {
         public IActionResult Index()
